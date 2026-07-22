@@ -21,7 +21,7 @@ npm install --global @ahoooooo/reviewready
 ```
 
 - [Explore the repository](https://github.com/ahoooooooo/reviewready)
-- [Read the v1.0.0 release notes](https://github.com/ahoooooooo/reviewready/releases/tag/v1.0.0)
+- [Read the latest release notes](https://github.com/ahoooooooo/reviewready/releases/latest)
 - [Install from npm](https://www.npmjs.com/package/@ahoooooo/reviewready)
 
 ## What I care about
